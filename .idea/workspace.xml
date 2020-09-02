@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5ce60ad-3da4-4ee5-9de5-9b475de5cc5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../hash/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hash/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hash_map/src/EntryMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hash_map/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hash_map/src/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/EntryMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2/api-gateway/src/main/java/app/Student/StudentClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/eureka-client/src/main/java/app/ValidationException/ApiError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/eureka-client/src/main/java/app/ValidationException/EntityNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/eureka-client/src/main/java/app/ValidationException/FieldValidationError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/eureka-client/src/main/java/app/ValidationException/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/example/game/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/main/java/com/example/game/game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/eureka-client/eurekaclient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-client/eureka-client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/eureka-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/eureka-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/eureka-client/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/eureka-client/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/eureka-client/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/eureka-client/target/classes/com/eurekaclient/User/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/eureka-client/target/classes/com/eurekaclient/User/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/eureka-client/target/classes/com/eurekaclient/User/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/eureka-client/target/classes/com/eurekaclient/User/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/eureka-service/service-registration-and-discovery-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/api-gateway/api-gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/eureka-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/eureka-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/eureka-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/eureka-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/gs-service-registration-and-discovery.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/api-gateway/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/api-gateway/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/api-gateway/src/main/java/app/FeignClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/api-gateway/src/main/java/app/FeignStudentApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/api-gateway/src/main/java/app/User/UserClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/eureka-client/src/main/java/app/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-client/src/main/java/app/Student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/eureka-client/src/main/java/app/User/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-client/src/main/java/app/Student/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/eureka-client/src/main/java/app/User/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-client/src/main/java/app/Student/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/eureka-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-client/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/eureka-service/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-service/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/eureka-service/eureka-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-service/eureka-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/eureka-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/eureka-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/eureka-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/eureka-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/lab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/test.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/eureka-client/target/classes/app/User/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/eureka-client/target/classes/app/User/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/eureka-client/target/classes/app/User/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/eureka-client/target/classes/app/User/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/eureka-service/eureka-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/eureka-service/eureka-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3/lab3.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1gyALKnyNE2UCqWKdtaX7MzHRAr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="java_test" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5ce60ad-3da4-4ee5-9de5-9b475de5cc5b" name="Default Changelist" comment="" />
+      <created>1599076401565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599076401565</updated>
+      <workItem from="1599076407246" duration="334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
