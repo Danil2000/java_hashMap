@@ -6,7 +6,7 @@ import java.util.Map;
 public class Main {
 
     public static void main(String[] args) {
-        HashMap<Integer, Long> hash = new HashMap<Integer, Long>();
+        MyHashMap hash = new MyHashMap(2);
         hash.put(10, (long) 1.5);
         hash.put(15, (long) 2.5);
         System.out.println(hash.get(15));
